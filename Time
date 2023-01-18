@@ -1,0 +1,4 @@
+import datetime
+
+current_time = datetime.datetime.now().time()
+print("The current time is:", current_time)
